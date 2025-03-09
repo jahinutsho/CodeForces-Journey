@@ -14,4 +14,5 @@ int main() {
     cout << "round " << A << " / " << B << " = " << round(result) << endl;
 
     return 0;
+    
 }
